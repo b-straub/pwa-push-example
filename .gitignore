@@ -131,3 +131,5 @@ dist
 
 # SQLite local database file
 *.db
+public/.DS_Store
+.DS_Store
